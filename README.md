@@ -14,7 +14,3 @@
 </p>
 
 </div>
-
----
-
-<p align="center">Huge thanks to ChatGPT, Claude and every cryptic console error that forced me to actually understand what I was doing.</p>
