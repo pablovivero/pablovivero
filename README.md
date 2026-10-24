@@ -30,47 +30,47 @@
 ### Marketing & Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/SEO-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="SEO" />
-  <img src="https://img.shields.io/badge/SEM-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="SEM" />
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" />
-  <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
-  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Google Search Console" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
-  <img src="https://img.shields.io/badge/Ahrefs-1A73E8?style=for-the-badge&logo=ahrefs&logoColor=white" alt="Ahrefs" />
-  <img src="https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" alt="Semrush" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="36" height="36" alt="SEO / Google Search Console" title="SEO / Google Search Console" />
+  <img src="https://cdn.simpleicons.org/googleads/4285F4" width="36" height="36" alt="SEM" title="SEM" />
+  <img src="https://cdn.simpleicons.org/googleads/4285F4" width="36" height="36" alt="Google Ads" title="Google Ads" />
+  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="36" height="36" alt="Google Analytics 4" title="Google Analytics 4" />
+  <img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="36" height="36" alt="Google Search Console" title="Google Search Console" />
+  <img src="https://cdn.simpleicons.org/looker/4285F4" width="36" height="36" alt="Looker Studio" title="Looker Studio" />
+  <img src="https://cdn.simpleicons.org/ahrefs/1A73E8" width="36" height="36" alt="Ahrefs" title="Ahrefs" />
+  <img src="https://cdn.simpleicons.org/semrush/FF642D" width="36" height="36" alt="Semrush" title="Semrush" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="36" height="36" alt="WordPress" title="WordPress" />
 </p>
 
 ### Web Design & Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="36" height="36" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" title="Python" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="36" height="36" alt="WordPress" title="WordPress" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" title="GitHub" />
 </p>
 
 ### AI & Automation
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Process%20Automation-E11D48?style=for-the-badge&logo=openai&logoColor=white" alt="Process Automation" />
-  <img src="https://img.shields.io/badge/AI--assisted%20development-059669?style=for-the-badge&logo=openai&logoColor=white" alt="AI-assisted development" />
+  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="OpenAI API" title="OpenAI API" />
+  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="LLMs" title="LLMs" />
+  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="AI Agents" title="AI Agents" />
+  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="Process Automation" title="Process Automation" />
+  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="AI-assisted development" title="AI-assisted development" />
 </p>
 
 ### Creative Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="UI/UX Design" />
-  <img src="https://img.shields.io/badge/Digital%20Content-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Digital Content" />
-  <img src="https://img.shields.io/badge/Audiovisual%20Production-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Audiovisual Production" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="36" height="36" alt="Canva" title="Canva" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="36" height="36" alt="UI/UX Design" title="UI/UX Design" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="36" height="36" alt="Digital Content" title="Digital Content" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="36" height="36" alt="Audiovisual Production" title="Audiovisual Production" />
 </p>
 
 ## Find me around
