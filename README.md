@@ -30,49 +30,46 @@
 ### Marketing & Analytics
 
 <p>
-  <img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="36" height="36" alt="SEO / Google Search Console" title="SEO / Google Search Console" />
-  <img src="https://cdn.simpleicons.org/googleads/4285F4" width="36" height="36" alt="SEM" title="SEM" />
-  <img src="https://cdn.simpleicons.org/googleads/4285F4" width="36" height="36" alt="Google Ads" title="Google Ads" />
-  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="36" height="36" alt="Google Analytics 4" title="Google Analytics 4" />
-  <img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="36" height="36" alt="Google Search Console" title="Google Search Console" />
-  <img src="https://cdn.simpleicons.org/looker/4285F4" width="36" height="36" alt="Looker Studio" title="Looker Studio" />
-  <span title="Ahrefs" aria-label="Ahrefs">🔎</span>
-  <img src="https://cdn.simpleicons.org/semrush/FF642D" width="36" height="36" alt="Semrush" title="Semrush" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="36" height="36" alt="WordPress" title="WordPress" />
+  <img src="https://cdn.simpleicons.org/googleads/4285F4" width="38" height="38" alt="Google Ads" title="Google Ads" />
+  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="38" height="38" alt="Google Analytics 4" title="Google Analytics 4" />
+  <img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="38" height="38" alt="Google Search Console" title="Google Search Console" />
+  <img src="https://cdn.simpleicons.org/looker/4285F4" width="38" height="38" alt="Looker Studio" title="Looker Studio" />
+  <img src="https://api.iconify.design/thesvg-color/ahrefs.svg" width="38" height="38" alt="Ahrefs" title="Ahrefs" />
+  <img src="https://cdn.simpleicons.org/semrush/FF642D" width="38" height="38" alt="Semrush" title="Semrush" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="38" height="38" alt="WordPress" title="WordPress" />
 </p>
 
 ### Web Design & Development
 
 <p>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" width="36" height="36" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" title="Python" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="36" height="36" alt="WordPress" title="WordPress" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" title="GitHub" />
+  <img src="https://api.iconify.design/devicon/html5.svg" width="38" height="38" alt="HTML5" title="HTML5" />
+  <img src="https://api.iconify.design/devicon/css3.svg" width="38" height="38" alt="CSS3" title="CSS3" />
+  <img src="https://api.iconify.design/devicon/javascript.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />
+  <img src="https://api.iconify.design/devicon/typescript.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
+  <img src="https://api.iconify.design/devicon/python.svg" width="38" height="38" alt="Python" title="Python" />
+  <img src="https://api.iconify.design/devicon/astro.svg" width="38" height="38" alt="Astro" title="Astro" />
+  <img src="https://api.iconify.design/devicon/react.svg" width="38" height="38" alt="React" title="React" />
+  <img src="https://api.iconify.design/devicon/wordpress.svg" width="38" height="38" alt="WordPress" title="WordPress" />
+  <img src="https://api.iconify.design/devicon/git.svg" width="38" height="38" alt="Git" title="Git" />
 </p>
 
 ### AI & Automation
 
 <p>
-  <span title="OpenAI API" aria-label="OpenAI API">🤖</span>
-  <span title="LLMs" aria-label="LLMs">🧠</span>
-  <span title="AI Agents" aria-label="AI Agents">🧩</span>
-  <span title="Process Automation" aria-label="Process Automation">⚙️</span>
-  <span title="AI-assisted development" aria-label="AI-assisted development">💡</span>
+  <img src="https://api.iconify.design/logos/openai.svg" width="38" height="38" alt="OpenAI" title="OpenAI" />
+  <img src="https://api.iconify.design/simple-icons/claude.svg" width="38" height="38" alt="Claude" title="Claude" />
 </p>
 
 ### Creative Tools
 
 <p>
-  <span title="Canva" aria-label="Canva">🎨</span>
-  <span title="UI/UX Design" aria-label="UI/UX Design">✏️</span>
-  <span title="Digital Content" aria-label="Digital Content">✨</span>
-  <span title="Audiovisual Production" aria-label="Audiovisual Production">🎬</span>
+  <img src="https://api.iconify.design/devicon/canva.svg" width="38" height="38" alt="Canva" title="Canva" />
 </p>
 
 ## Find me around
 
-[LinkedIn](https://www.linkedin.com/in/pabloviverovergara/) · [GitHub](https://github.com/pablovivero) · Portfolio — coming soon
+<p>
+  <a href="https://www.linkedin.com/in/pabloviverovergara/" title="LinkedIn"><img src="https://api.iconify.design/bxl/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="https://github.com/pablovivero" title="GitHub"><img src="https://api.iconify.design/bxl/github.svg" width="32" height="32" alt="GitHub" /></a>
+  Portfolio — coming soon
+</p>
