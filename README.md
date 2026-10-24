@@ -36,7 +36,7 @@
   <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="36" height="36" alt="Google Analytics 4" title="Google Analytics 4" />
   <img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="36" height="36" alt="Google Search Console" title="Google Search Console" />
   <img src="https://cdn.simpleicons.org/looker/4285F4" width="36" height="36" alt="Looker Studio" title="Looker Studio" />
-  <img src="https://cdn.simpleicons.org/ahrefs/1A73E8" width="36" height="36" alt="Ahrefs" title="Ahrefs" />
+  <span title="Ahrefs" aria-label="Ahrefs">🔎</span>
   <img src="https://cdn.simpleicons.org/semrush/FF642D" width="36" height="36" alt="Semrush" title="Semrush" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" width="36" height="36" alt="WordPress" title="WordPress" />
 </p>
@@ -57,20 +57,20 @@
 ### AI & Automation
 
 <p>
-  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="OpenAI API" title="OpenAI API" />
-  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="LLMs" title="LLMs" />
-  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="AI Agents" title="AI Agents" />
-  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="Process Automation" title="Process Automation" />
-  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="AI-assisted development" title="AI-assisted development" />
+  <span title="OpenAI API" aria-label="OpenAI API">🤖</span>
+  <span title="LLMs" aria-label="LLMs">🧠</span>
+  <span title="AI Agents" aria-label="AI Agents">🧩</span>
+  <span title="Process Automation" aria-label="Process Automation">⚙️</span>
+  <span title="AI-assisted development" aria-label="AI-assisted development">💡</span>
 </p>
 
 ### Creative Tools
 
 <p>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="36" height="36" alt="Canva" title="Canva" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="36" height="36" alt="UI/UX Design" title="UI/UX Design" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="36" height="36" alt="Digital Content" title="Digital Content" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="36" height="36" alt="Audiovisual Production" title="Audiovisual Production" />
+  <span title="Canva" aria-label="Canva">🎨</span>
+  <span title="UI/UX Design" aria-label="UI/UX Design">✏️</span>
+  <span title="Digital Content" aria-label="Digital Content">✨</span>
+  <span title="Audiovisual Production" aria-label="Audiovisual Production">🎬</span>
 </p>
 
 ## Find me around
